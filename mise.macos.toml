@@ -1,0 +1,2 @@
+[dotfiles]
+"~/Library/Rime" = { source = "config", mode = "copy" }

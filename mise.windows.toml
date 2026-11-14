@@ -1,0 +1,2 @@
+[dotfiles]
+"~/AppData/Roaming/Rime" = { source = "config", mode = "copy" }
