@@ -2,7 +2,6 @@ patch:
   keyboard_layout: last
   chord_duration: 0.1
   show_notifications_when: appropriate
-  show_notifications_via_notification_center: true
   status_icon:
     show: true
 
