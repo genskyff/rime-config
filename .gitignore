@@ -1,0 +1,10 @@
+# Local
+.DS_Store
+*.local
+*.local.*
+*.log
+*.log.*
+
+
+# IDE
+.idea
