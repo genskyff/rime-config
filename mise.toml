@@ -1,0 +1,8 @@
+[tools]
+oxfmt = "latest"
+
+[tasks.check]
+run = "oxfmt --check"
+
+[tasks.fix]
+run = "oxfmt"
