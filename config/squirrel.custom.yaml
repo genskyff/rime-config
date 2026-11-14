@@ -1,0 +1,67 @@
+patch:
+  keyboard_layout: last
+  chord_duration: 0.1
+  show_notifications_when: appropriate
+  show_notifications_via_notification_center: true
+  status_icon:
+    show: true
+
+  # osascript -e 'id of app "<AppName>"'
+  app_options:
+    com.apple.Spotlight:
+      ascii_mode: true
+    com.apple.Terminal:
+      ascii_mode: true
+    com.microsoft.VSCode:
+      ascii_mode: true
+    com.docker.docker:
+      ascii_mode: true
+    com.tinycast.app:
+      ascii_mode: true
+    net.kovidgoyal.kitty:
+      ascii_mode: true
+
+  style:
+    color_scheme: mac_light
+    color_scheme_dark: mac_dark
+    candidate_list_layout: linear
+    text_orientation: horizontal
+    inline_preedit: true
+    translucency: true
+    candidate_format: "[label] [candidate] [comment]  "
+    font_face: PingFangSC
+    font_point: 16
+    label_font_point: 12
+    corner_radius: 10
+    hilited_corner_radius: 7
+    border_height: 0
+    spacing: 8
+
+  # 颜色为 (A)BGR
+  preset_color_schemes:
+    mac_light:
+      author: "Binwalker"
+      name: "Mac Light"
+      back_color: 0xD9FFFFFF
+      candidate_text_color: 0xD9000000
+      label_color: 0x80000000
+      comment_text_color: 0x80000000
+      text_color: 0x80000000
+      hilited_text_color: 0xD9000000
+      hilited_candidate_back_color: 0xFF8800
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_candidate_label_color: 0xCCFFFFFF
+      hilited_comment_text_color: 0xCCFFFFFF
+    mac_dark:
+      author: "Binwalker"
+      name: "Mac Dark"
+      back_color: 0xD9262626
+      candidate_text_color: 0xD9FFFFFF
+      label_color: 0x8CFFFFFF
+      comment_text_color: 0x8CFFFFFF
+      text_color: 0x8CFFFFFF
+      hilited_text_color: 0xD9FFFFFF
+      hilited_candidate_back_color: 0xFF9100
+      hilited_candidate_text_color: 0xFFFFFF
+      hilited_candidate_label_color: 0xCCFFFFFF
+      hilited_comment_text_color: 0xCCFFFFFF
