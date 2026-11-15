@@ -21,7 +21,7 @@ patch:
       ascii_mode: true
 
   style:
-    color_scheme: mac_light
+    color_scheme: mac
     color_scheme_dark: mac_dark
     candidate_list_layout: linear
     text_orientation: horizontal
@@ -38,9 +38,9 @@ patch:
 
   # 颜色为 (A)BGR
   preset_color_schemes:
-    mac_light:
+    mac:
       author: "Binwalker"
-      name: "Mac Light"
+      name: "Mac"
       back_color: 0xD9FFFFFF
       candidate_text_color: 0xD9000000
       label_color: 0x80000000
