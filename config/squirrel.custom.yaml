@@ -47,10 +47,10 @@ patch:
       comment_text_color: 0x80000000
       text_color: 0x80000000
       hilited_text_color: 0xD9000000
-      hilited_candidate_back_color: 0xFF8800
-      hilited_candidate_text_color: 0xFFFFFF
-      hilited_candidate_label_color: 0xCCFFFFFF
-      hilited_comment_text_color: 0xCCFFFFFF
+      hilited_candidate_back_color: 0x14000000
+      hilited_candidate_text_color: 0xD9000000
+      hilited_candidate_label_color: 0xFF8800
+      hilited_comment_text_color: 0x80000000
     mac_dark:
       author: "Binwalker"
       name: "Mac Dark"
@@ -60,7 +60,7 @@ patch:
       comment_text_color: 0x8CFFFFFF
       text_color: 0x8CFFFFFF
       hilited_text_color: 0xD9FFFFFF
-      hilited_candidate_back_color: 0xFF9100
-      hilited_candidate_text_color: 0xFFFFFF
-      hilited_candidate_label_color: 0xCCFFFFFF
-      hilited_comment_text_color: 0xCCFFFFFF
+      hilited_candidate_back_color: 0x1AFFFFFF
+      hilited_candidate_text_color: 0xD9FFFFFF
+      hilited_candidate_label_color: 0xFF9100
+      hilited_comment_text_color: 0x8CFFFFFF
