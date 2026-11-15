@@ -4,7 +4,3 @@
 *.local.*
 *.log
 *.log.*
-
-
-# IDE
-.idea
