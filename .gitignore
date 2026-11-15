@@ -1,7 +1,1 @@
-# Local
-.DS_Store
-*.local
-*.local.*
-*.log
-*.log.*
 config/personal_phrase.dict.yaml
