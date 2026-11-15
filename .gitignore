@@ -4,3 +4,4 @@
 *.local.*
 *.log
 *.log.*
+config/personal_phrase.dict.yaml

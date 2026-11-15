@@ -1,3 +1,4 @@
 patch:
   # @3 = emoji
   switches/@3/reset: 1
+  custom_phrase/dictionary: personal_phrase
