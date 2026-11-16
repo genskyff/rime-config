@@ -1,2 +1,2 @@
 [dotfiles]
-"~/Library/Rime" = { source = "config", mode = "copy" }
+"~/Library/Rime" = { source = "config", mode = "copy", exclude = ["weasel.custom.yaml"] }
